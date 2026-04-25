@@ -6,8 +6,9 @@ AIWAF is an open security project focused on practical, framework-friendly web a
 
 We build WAF components for Python web stacks with optional Rust acceleration:
 
-- `aiwaf` for Django
-- `aiwaf_flask` for Flask
+- `aiwaf` for Python
+- `aiwaf-js` for JavaScript
+- `aiwaf-php` for PHP
 - `aiwaf-rust` for high-performance heuristic helpers
 
 Our goal is to combine rule-based protection with AI-assisted anomaly detection while keeping deployments operable and configurable.
